@@ -1,0 +1,17 @@
+C:\proyectos\Examen\API_ARQUITECTURA CLEAN\Examen.Domain\bin\Debug\net8.0\Examen.Domain.deps.json
+C:\proyectos\Examen\API_ARQUITECTURA CLEAN\Examen.Domain\bin\Debug\net8.0\Examen.Domain.dll
+C:\proyectos\Examen\API_ARQUITECTURA CLEAN\Examen.Domain\bin\Debug\net8.0\Examen.Domain.pdb
+C:\proyectos\Examen\API_ARQUITECTURA CLEAN\Examen.Domain\bin\Debug\net8.0\Examen.Infrastructure.dll
+C:\proyectos\Examen\API_ARQUITECTURA CLEAN\Examen.Domain\bin\Debug\net8.0\Examen.Models.dll
+C:\proyectos\Examen\API_ARQUITECTURA CLEAN\Examen.Domain\bin\Debug\net8.0\Examen.Infrastructure.pdb
+C:\proyectos\Examen\API_ARQUITECTURA CLEAN\Examen.Domain\bin\Debug\net8.0\Examen.Models.pdb
+C:\proyectos\Examen\API_ARQUITECTURA CLEAN\Examen.Domain\obj\Debug\net8.0\Examen.Domain.csproj.AssemblyReference.cache
+C:\proyectos\Examen\API_ARQUITECTURA CLEAN\Examen.Domain\obj\Debug\net8.0\Examen.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos\Examen\API_ARQUITECTURA CLEAN\Examen.Domain\obj\Debug\net8.0\Examen.Domain.AssemblyInfoInputs.cache
+C:\proyectos\Examen\API_ARQUITECTURA CLEAN\Examen.Domain\obj\Debug\net8.0\Examen.Domain.AssemblyInfo.cs
+C:\proyectos\Examen\API_ARQUITECTURA CLEAN\Examen.Domain\obj\Debug\net8.0\Examen.Domain.csproj.CoreCompileInputs.cache
+C:\proyectos\Examen\API_ARQUITECTURA CLEAN\Examen.Domain\obj\Debug\net8.0\Examen.D.47307486.Up2Date
+C:\proyectos\Examen\API_ARQUITECTURA CLEAN\Examen.Domain\obj\Debug\net8.0\Examen.Domain.dll
+C:\proyectos\Examen\API_ARQUITECTURA CLEAN\Examen.Domain\obj\Debug\net8.0\refint\Examen.Domain.dll
+C:\proyectos\Examen\API_ARQUITECTURA CLEAN\Examen.Domain\obj\Debug\net8.0\Examen.Domain.pdb
+C:\proyectos\Examen\API_ARQUITECTURA CLEAN\Examen.Domain\obj\Debug\net8.0\ref\Examen.Domain.dll

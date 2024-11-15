@@ -1,0 +1,11 @@
+C:\proyectos\Examen\API_ARQUITECTURA CLEAN\Examen.Models\bin\Debug\net8.0\Examen.Models.deps.json
+C:\proyectos\Examen\API_ARQUITECTURA CLEAN\Examen.Models\bin\Debug\net8.0\Examen.Models.dll
+C:\proyectos\Examen\API_ARQUITECTURA CLEAN\Examen.Models\bin\Debug\net8.0\Examen.Models.pdb
+C:\proyectos\Examen\API_ARQUITECTURA CLEAN\Examen.Models\obj\Debug\net8.0\Examen.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos\Examen\API_ARQUITECTURA CLEAN\Examen.Models\obj\Debug\net8.0\Examen.Models.AssemblyInfoInputs.cache
+C:\proyectos\Examen\API_ARQUITECTURA CLEAN\Examen.Models\obj\Debug\net8.0\Examen.Models.AssemblyInfo.cs
+C:\proyectos\Examen\API_ARQUITECTURA CLEAN\Examen.Models\obj\Debug\net8.0\Examen.Models.csproj.CoreCompileInputs.cache
+C:\proyectos\Examen\API_ARQUITECTURA CLEAN\Examen.Models\obj\Debug\net8.0\Examen.Models.dll
+C:\proyectos\Examen\API_ARQUITECTURA CLEAN\Examen.Models\obj\Debug\net8.0\refint\Examen.Models.dll
+C:\proyectos\Examen\API_ARQUITECTURA CLEAN\Examen.Models\obj\Debug\net8.0\Examen.Models.pdb
+C:\proyectos\Examen\API_ARQUITECTURA CLEAN\Examen.Models\obj\Debug\net8.0\ref\Examen.Models.dll

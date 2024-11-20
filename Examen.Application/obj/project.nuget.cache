@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UZvwIeIi7i8=",
+  "dgSpecHash": "Yk3k7QOx6h0=",
   "success": true,
-  "projectFilePath": "C:\\proyectos\\Examen\\API_ARQUITECTURA CLEAN\\Examen.Application\\Examen.Application.csproj",
+  "projectFilePath": "C:\\proyectos\\Examen\\api_servicio_biblioteca\\lariosleon\\ApiServicioBiblioteca\\Examen.Application\\Examen.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kassa\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\kassa\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

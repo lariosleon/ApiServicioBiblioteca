@@ -39,7 +39,7 @@ namespace Examen.Infrastructure.Implement
                     Fecha_Inicio = Convert.ToDateTime(reader["Fecha_inicio"]),
                     Fecha_Fin = Convert.ToDateTime(reader["Fecha_fin"]),
                     estado = reader["estado"].ToString(),
-    
+                    Fecha_Retorno = Convert.ToDateTime(reader["Fecha_Retorno"]),
                 };
                 lista.Add(obj);
             }
@@ -122,8 +122,11 @@ namespace Examen.Infrastructure.Implement
             {
                 obj.Id = Convert.ToInt32(reader["Id"]);
                 obj.empleado_id = Convert.ToInt32(reader["empleado_id"]);
+                obj.Empleado = Convert.ToString(reader["Empleado"]);
                 obj.estudiante_id = Convert.ToInt32(reader["estudiante_id"]);
+                obj.Estudiantes = Convert.ToString(reader["Estudiantes"]);
                 obj.Libro_id = Convert.ToInt32(reader["Libro_id"]);
+                obj.Libro = Convert.ToString(reader["Libro"]);
                 obj.Fecha_Inicio = Convert.ToDateTime(reader["Fecha_Inicio"]);
                 obj.Fecha_Fin = Convert.ToDateTime(reader["Fecha_Fin"]);
                 obj.estado = Convert.ToString(reader["estado"]);

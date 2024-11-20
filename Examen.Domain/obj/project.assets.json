@@ -1880,11 +1880,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\proyectos\\Examen\\API_ARQUITECTURA CLEAN\\Examen.Domain\\Examen.Domain.csproj",
+      "projectUniqueName": "C:\\proyectos\\Examen\\api_servicio_biblioteca\\lariosleon\\ApiServicioBiblioteca\\Examen.Domain\\Examen.Domain.csproj",
       "projectName": "Examen.Domain",
-      "projectPath": "C:\\proyectos\\Examen\\API_ARQUITECTURA CLEAN\\Examen.Domain\\Examen.Domain.csproj",
+      "projectPath": "C:\\proyectos\\Examen\\api_servicio_biblioteca\\lariosleon\\ApiServicioBiblioteca\\Examen.Domain\\Examen.Domain.csproj",
       "packagesPath": "C:\\Users\\kassa\\.nuget\\packages\\",
-      "outputPath": "C:\\proyectos\\Examen\\API_ARQUITECTURA CLEAN\\Examen.Domain\\obj\\",
+      "outputPath": "C:\\proyectos\\Examen\\api_servicio_biblioteca\\lariosleon\\ApiServicioBiblioteca\\Examen.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1906,8 +1906,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\proyectos\\Examen\\API_ARQUITECTURA CLEAN\\Examen.Infrastructure\\Examen.Infrastructure.csproj": {
-              "projectPath": "C:\\proyectos\\Examen\\API_ARQUITECTURA CLEAN\\Examen.Infrastructure\\Examen.Infrastructure.csproj"
+            "C:\\proyectos\\Examen\\api_servicio_biblioteca\\lariosleon\\ApiServicioBiblioteca\\Examen.Infrastructure\\Examen.Infrastructure.csproj": {
+              "projectPath": "C:\\proyectos\\Examen\\api_servicio_biblioteca\\lariosleon\\ApiServicioBiblioteca\\Examen.Infrastructure\\Examen.Infrastructure.csproj"
             }
           }
         }

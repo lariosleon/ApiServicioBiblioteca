@@ -1,15 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\proyectos\\Examen\\API_ARQUITECTURA CLEAN\\Examen.Application\\",
+  "WorkspaceRootPath": "C:\\proyectos\\Examen\\api_servicio_biblioteca\\lariosleon\\ApiServicioBiblioteca\\Examen.Application\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{067F79F1-12C8-401B-9145-70552A1CE8C2}|..\\Examen.Infrastructure\\Examen.Infrastructure.csproj|c:\\proyectos\\examen\\api_arquitectura clean\\examen.infrastructure\\implement\\prestamosinf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B329D44E-F907-42D5-9A72-DC5A528B0521}|..\\Examen.Api\\Examen.Api.csproj|c:\\proyectos\\examen\\api_servicio_biblioteca\\lariosleon\\apiserviciobiblioteca\\examen.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{067F79F1-12C8-401B-9145-70552A1CE8C2}|..\\Examen.Infrastructure\\Examen.Infrastructure.csproj|c:\\proyectos\\examen\\api_arquitectura clean\\examen.infrastructure\\interface\\iprestamosinf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\proyectos\\Examen\\API_ARQUITECTURA CLEAN\\Examen.Infrastructure\\Implement\\PrestamosInf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B329D44E-F907-42D5-9A72-DC5A528B0521}|..\\Examen.Api\\Examen.Api.csproj|c:\\proyectos\\examen\\api_arquitectura clean\\examen.api\\controllers\\prestamoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\proyectos\\Examen\\API_ARQUITECTURA CLEAN\\Examen.Infrastructure\\Interface\\IPrestamosInf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\proyectos\\Examen\\API_ARQUITECTURA CLEAN\\Examen.Api\\Controllers\\PrestamosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,11 +27,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\proyectos\\Examen\\api_servicio_biblioteca\\lariosleon\\ApiServicioBiblioteca\\Examen.Api\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Examen.Api\\Program.cs",
+              "ToolTip": "C:\\proyectos\\Examen\\api_servicio_biblioteca\\lariosleon\\ApiServicioBiblioteca\\Examen.Api\\Program.cs",
+              "RelativeToolTip": "..\\Examen.Api\\Program.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAADwv1IAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:37:56.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PrestamosInf.cs",
               "DocumentMoniker": "C:\\proyectos\\Examen\\API_ARQUITECTURA CLEAN\\Examen.Infrastructure\\Implement\\PrestamosInf.cs",
-              "RelativeDocumentMoniker": "..\\Examen.Infrastructure\\Implement\\PrestamosInf.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\API_ARQUITECTURA CLEAN\\Examen.Infrastructure\\Implement\\PrestamosInf.cs",
               "ToolTip": "C:\\proyectos\\Examen\\API_ARQUITECTURA CLEAN\\Examen.Infrastructure\\Implement\\PrestamosInf.cs",
-              "RelativeToolTip": "..\\Examen.Infrastructure\\Implement\\PrestamosInf.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\API_ARQUITECTURA CLEAN\\Examen.Infrastructure\\Implement\\PrestamosInf.cs",
               "ViewState": "AQIAAB0AAAAAAAAAAAASwCgAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T00:48:53.766Z",
@@ -36,24 +52,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IPrestamosInf.cs",
               "DocumentMoniker": "C:\\proyectos\\Examen\\API_ARQUITECTURA CLEAN\\Examen.Infrastructure\\Interface\\IPrestamosInf.cs",
-              "RelativeDocumentMoniker": "..\\Examen.Infrastructure\\Interface\\IPrestamosInf.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\API_ARQUITECTURA CLEAN\\Examen.Infrastructure\\Interface\\IPrestamosInf.cs",
               "ToolTip": "C:\\proyectos\\Examen\\API_ARQUITECTURA CLEAN\\Examen.Infrastructure\\Interface\\IPrestamosInf.cs",
-              "RelativeToolTip": "..\\Examen.Infrastructure\\Interface\\IPrestamosInf.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\API_ARQUITECTURA CLEAN\\Examen.Infrastructure\\Interface\\IPrestamosInf.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T00:48:51.138Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PrestamosController.cs",
               "DocumentMoniker": "C:\\proyectos\\Examen\\API_ARQUITECTURA CLEAN\\Examen.Api\\Controllers\\PrestamosController.cs",
-              "RelativeDocumentMoniker": "..\\Examen.Api\\Controllers\\PrestamosController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\API_ARQUITECTURA CLEAN\\Examen.Api\\Controllers\\PrestamosController.cs",
               "ToolTip": "C:\\proyectos\\Examen\\API_ARQUITECTURA CLEAN\\Examen.Api\\Controllers\\PrestamosController.cs",
-              "RelativeToolTip": "..\\Examen.Api\\Controllers\\PrestamosController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\API_ARQUITECTURA CLEAN\\Examen.Api\\Controllers\\PrestamosController.cs",
               "ViewState": "AQIAACAAAAAAAAAAAAAIwCQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T00:45:17.999Z"

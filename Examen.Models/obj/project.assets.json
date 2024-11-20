@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\proyectos\\Examen\\API_ARQUITECTURA CLEAN\\Examen.Models\\Examen.Models.csproj",
+      "projectUniqueName": "C:\\proyectos\\Examen\\api_servicio_biblioteca\\lariosleon\\ApiServicioBiblioteca\\Examen.Models\\Examen.Models.csproj",
       "projectName": "Examen.Models",
-      "projectPath": "C:\\proyectos\\Examen\\API_ARQUITECTURA CLEAN\\Examen.Models\\Examen.Models.csproj",
+      "projectPath": "C:\\proyectos\\Examen\\api_servicio_biblioteca\\lariosleon\\ApiServicioBiblioteca\\Examen.Models\\Examen.Models.csproj",
       "packagesPath": "C:\\Users\\kassa\\.nuget\\packages\\",
-      "outputPath": "C:\\proyectos\\Examen\\API_ARQUITECTURA CLEAN\\Examen.Models\\obj\\",
+      "outputPath": "C:\\proyectos\\Examen\\api_servicio_biblioteca\\lariosleon\\ApiServicioBiblioteca\\Examen.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
